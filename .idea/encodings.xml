@@ -2,6 +2,13 @@
 <project version="4">
   <component name="Encoding" native2AsciiForPropertiesFiles="true" defaultCharsetForPropertiesFiles="GBK">
     <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/client/.browserslistrc" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/client/.eslintrc.js" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/client/babel.config.js" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/client/package-lock.json" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/client/package.json" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/client/public" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/client/src" charset="GBK" />
     <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/main/resources" charset="UTF-8" />
     <file url="PROJECT" charset="GBK" />
